@@ -17,7 +17,7 @@ export default function CourseHeader() {
             but preserve the same layout if the text wraps without making the image jump around.
           */}
           <div className="pt-1.5">
-            <h1 className="text-2xl font-bold text-gray-900">Antinantal Care Service</h1>
+            <h1 className="text-2xl font-bold text-gray-900">Antenatal Care Service</h1>
            
             <p className="text-sm font-medium text-gray-500">
             PATIENT : Rosemary Muliokela
